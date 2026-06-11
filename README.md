@@ -1,4 +1,4 @@
-# AI Semester Project
+# Financial-ML-Algorithms
 
 **Three Machine Learning Algorithms on Financial Datasets**
 
