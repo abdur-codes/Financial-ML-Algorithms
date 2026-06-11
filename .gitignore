@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+generate_images.py
+crypto50_data/
+crypto50_metadata.csv
+FinancialPhraseBank/
+*.docx
